@@ -1,0 +1,28 @@
+.container{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 45px;
+    text-align: center;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    border-right: 17px solid rgb(241, 241, 241);
+    border-left: 17px solid rgb(241, 241, 241);
+}
+img{
+    width: 600px;
+    height: 350px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 37px;
+    text-align: center;
+  }

@@ -1,0 +1,14 @@
+.formControl {
+  background-color: rgb(228, 228, 228);
+  width: 70%;
+}
+.country{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 67%;
+}
+.country p{
+  font-size: 18px;
+  margin-right: 9px;
+}
